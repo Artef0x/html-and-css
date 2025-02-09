@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+}
+h2 {
+  color: #4a288b;
+}
+h3 {
+  color: rgb(251, 0, 13);
+}
+
+td {
+  width: 300px;
+  height: 100px;
+}
+
+.td-task2 {
+  width: 400px;
+  height: 300px;
+}
