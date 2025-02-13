@@ -1,0 +1,19 @@
+.eee .bbb {
+  color: red;
+}
+
+.eee h2 {
+  color: yellow;
+}
+.eee h2.bbb {
+  color: rgb(76, 0, 255);
+}
+.eee h3.bbb {
+  color: green;
+}
+.eee p.bbb {
+  color: rgb(255, 0, 212);
+}
+.eee .bbb .kkk {
+  color: black;
+}
