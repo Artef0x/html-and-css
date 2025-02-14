@@ -1,0 +1,23 @@
+.success {
+  color: green;
+}
+.error {
+  color: red;
+}
+.large {
+  font-size: 30px;
+}
+.small {
+  font-size: 20px;
+}
+
+.arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.margin {
+  margin: 0;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}
