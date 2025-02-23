@@ -1,0 +1,22 @@
+a.zzz {
+  color: red;
+}
+a.zzz:hover {
+  text-decoration: none;
+}
+
+/* Задача 22 */
+#block a.zzz {
+  color: rgb(33, 204, 11);
+}
+#block a.zzz:hover {
+  text-decoration: none;
+}
+
+/* Задача 3 */
+.block a.zzz {
+  color: rgb(209, 158, 17);
+}
+.block a.zzz:hover {
+  text-decoration: none;
+}
