@@ -1,0 +1,17 @@
+/* li:first-child {
+  color: red;
+} */
+
+/* Задача 2 */
+
+/* li:last-child {
+  color: green;
+} */
+
+/* Задача 3 */
+li:first-child {
+  color: red;
+}
+li:last-child {
+  color: green;
+}
