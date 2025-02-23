@@ -1,0 +1,30 @@
+/* Задача 1 */
+*[title] {
+  color: red;
+}
+/* Задача 2 */
+p[title] {
+  color: rgb(73, 16, 207);
+}
+/* Задача 3 */
+p[title='hello'] {
+  color: rgb(247, 0, 255);
+}
+/* Задача 4 */
+a[href^="https://"]
+{
+  color: red;
+}
+/* Задача 5 */
+a[href$='.html'] {
+  color: rgb(145, 255, 0);
+}
+/* Задача 6 */
+
+p[title~='hello'] {
+  color: rgb(255, 0, 0);
+}
+/* Задача 7 */
+p[class^='top-'] {
+  color: red;
+}
