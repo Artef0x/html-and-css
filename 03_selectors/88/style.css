@@ -1,0 +1,27 @@
+/* Задача 1 */
+
+/* li:nth-child(3) {
+  color: red;
+} */
+
+/* Задача 2 */
+
+/* li:nth-child(even) {
+  color: green;
+}
+
+li:nth-child(odd) {
+  color: red;
+} */
+
+/* Задача 3 */
+
+/* li:nth-child(3n) {
+  color: red;
+} */
+
+/* Задача 4 */
+
+li:nth-last-child(2) {
+  color: red;
+}
