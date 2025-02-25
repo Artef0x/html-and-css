@@ -1,0 +1,13 @@
+/* Task 1 */
+li:not(.elem) {
+  color: red;
+}
+/* Task 2 */
+li:not(:first-child) {
+  color: green;
+}
+/* Task 3 */
+
+li:not(:first-child):not(:last-child) {
+  color: blue;
+}
