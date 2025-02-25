@@ -1,3 +1,72 @@
-.header p {
+/* задача 1 */
+div p {
+  text-decoration: underline;
+}
+/* задача 2 */
+div h2 {
+  color: blue;
+}
+/* задача 3 */
+#block p {
+  color: red;
+}
+/* задача 4 */
+#block h2 {
+  font-size: 30px;
+}
+/* задача 5 */
+.bbb {
+  color: rgba(128, 255, 0, 0.897);
+}
+/* задача 6 */
+#block .bbb {
+  color: rgb(30, 138, 30);
+}
+/* задача 7 */
+p.bbb {
+  color: rgb(80, 136, 241);
+}
+/* заача 8 */
+h2.bbb {
+  font-size: 50px;
+}
+/* задача 9 */
+#block p.bbb {
+  text-decoration: underline;
+}
+/* задача 10 */
+.bbb,
+.xxx {
+  color: black;
+}
+/* задача 11 */
+p.bbb,
+h2.xxx {
+  font-size: 10px;
+  color: rgb(140, 34, 240);
+}
+/* задача 12 */
+#block p.bbb,
+#block p.xxx {
+  color: rgba(128, 255, 0, 0.89);
+}
+/* задание13 */
+.fff {
+  color: rgb(240, 13, 13);
+}
+/* задача 14 */
+.fff p {
+  font-size: 100px;
+}
+/* задача 15 */
+p.fff {
+  color: rgba(128, 0, 128, 0.897);
+}
+/* задача 16 */
+.fff .bbb {
+  color: blue;
+}
+/* задача 17 */
+.fff h2.bbb {
   color: red;
 }
