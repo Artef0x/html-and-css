@@ -1,0 +1,26 @@
+.parent {
+  width: 300px;
+  border: 2px dotted blue;
+  margin-bottom: 50px;
+}
+.child {
+  height: 200px;
+  border: 1px solid orange;
+  margin: 30px;
+}
+
+/* Task 2 */
+
+.block1 {
+  width: 300px;
+  border: 1px dashed blue;
+}
+.block2 {
+  border: 1px dashed green;
+  margin: 20px;
+}
+.block3 {
+  height: 150px;
+  border: 1px solid red;
+  margin: 20px;
+}
