@@ -1,0 +1,23 @@
+.parent {
+  border: 1px solid red;
+}
+.child1 {
+  border: 1px solid green;
+  height: 100px;
+  width: 100px;
+  margin: 10px auto;
+}
+
+.child2 {
+  border: 1px solid green;
+  height: 100px;
+  width: 200px;
+  margin: 10px auto;
+}
+
+.child3 {
+  border: 1px solid green;
+  height: 100px;
+  width: 300px;
+  margin: 10px auto;
+}
