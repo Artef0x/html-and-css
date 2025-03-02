@@ -1,0 +1,24 @@
+.block {
+  border: 1px solid red;
+  width: 200px;
+  padding: 50px;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+/* Task 2 */
+.block2 {
+  border: 1px solid green;
+  width: 500px;
+  padding: 20px;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+.block3 {
+  border: 1px solid red;
+  width: 300px;
+  padding: 10px;
+  text-align: justify;
+  margin-left: 50px;
+}
