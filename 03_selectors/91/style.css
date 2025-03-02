@@ -1,0 +1,23 @@
+/* Task 1 */
+h2:first-of-type {
+  color: red;
+}
+
+/* Task 2 */
+h2:last-of-type {
+  color: rgb(255, 208, 0);
+}
+/* Task 3 */
+p:nth-of-type(2) {
+  color: green;
+}
+
+/* Task 4 */
+
+p:nth-last-of-type(2) {
+  color: blue;
+}
+/* Task 5 */
+h3:only-of-type {
+  color: #21b37b;
+}
