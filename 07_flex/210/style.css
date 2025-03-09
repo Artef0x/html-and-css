@@ -1,0 +1,119 @@
+/* .block {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+} */
+
+/* Task 2 */
+
+/* .block {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+  align-items: end;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+} */
+
+/* Task 3 */
+
+/* .block {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+} */
+
+/* Task 4 */
+
+/* .block {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+  align-items: end;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+} */
+
+/* Task 5 */
+
+/* .block {
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+} */
+
+/* Task 6 */
+
+/* .block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+} */
+
+/* Task 7 */
+
+.block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+}
