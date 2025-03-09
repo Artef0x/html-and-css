@@ -1,0 +1,60 @@
+/* .block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+}
+
+.element2 {
+  align-self: flex-end;
+} */
+
+/* Task 2 */
+
+/* .block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+}
+
+.element2 {
+  align-self: center;
+} */
+
+/* Task 3 */
+
+.block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 900px;
+  height: 500px;
+}
+.element {
+  border: 1px solid green;
+  width: 120px;
+  height: 70px;
+}
+
+.element2 {
+  align-self: center;
+}
