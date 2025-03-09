@@ -1,0 +1,58 @@
+/* Task 1 */
+
+/* .element1 {
+  position: relative;
+  left: 100px;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  z-index: 1;
+}
+
+.element2 {
+  position: relative;
+  top: -20px;
+  left: 125px;
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+  z-index: 2;
+}
+.element3 {
+  position: relative;
+  left: 150px;
+  top: -35px;
+  width: 50px;
+  height: 50px;
+  background-color: green;
+} */
+
+/* task 2 */
+
+.element1 {
+  position: relative;
+  left: 100px;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  z-index: 3;
+}
+
+.element2 {
+  position: relative;
+  top: -20px;
+  left: 125px;
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+  z-index: 2;
+}
+.element3 {
+  position: relative;
+  left: 150px;
+  top: -35px;
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  z-index: 1;
+}
