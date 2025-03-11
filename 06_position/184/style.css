@@ -1,0 +1,25 @@
+.content {
+  position: relative;
+  text-align: justify;
+  margin: 0 auto;
+  padding: 20px;
+  width: 400px;
+  border: 1px solid green;
+}
+.elem1 {
+  position: fixed;
+  top: 10;
+  left: 200px;
+  border: 1px solid red;
+  width: 50px;
+  height: 50px;
+}
+
+.elem2 {
+  position: fixed;
+  top: 10px;
+  right: 200px;
+  border: 1px solid red;
+  width: 50px;
+  height: 50px;
+}
