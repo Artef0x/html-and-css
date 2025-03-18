@@ -1,8 +1,10 @@
-/* #menu {
+.menu {
   display: flex;
 }
-#menu a {
+.menu a:not(:last-child) {
   margin-right: 5px;
+}
+.menu a {
   padding: 10px;
   font: 15px Arial;
   text-decoration: none;
@@ -10,22 +12,21 @@
   border: 1px solid green;
   background-color: green;
 }
-#menu a:hover,
-#menu a.active {
+.menu a:hover,
+.menu a.active {
   color: green;
   background-color: white;
-} */
+}
 
 /* Task 2 */
 
-/* #menu {
+/* .menu {
   display: flex;
   flex-direction: column;
   width: 300px;
+  gap: 10px;
 }
-#menu a {
-  margin-bottom: 10px;
-  margin-right: 5px;
+.menu a {
   padding: 10px;
   font: 15px Arial;
   text-decoration: none;
@@ -33,26 +34,26 @@
   border: 1px solid green;
   background-color: green;
 }
-#menu a:hover,
-#menu a.active {
+.menu a:hover,
+.menu a.active {
   color: green;
   background-color: white;
 } */
 
 /* Task 3 */
-
-#menu {
+/* 
+.menu {
   display: flex;
 }
-#menu a {
+.menu a {
   padding: 20px 40px;
   font: 16px Arial;
   text-decoration: none;
   color: white;
   background-color: green;
 }
-#menu a:hover,
-#menu a.active {
+.menu a:hover,
+.menu a.active {
   color: white;
   background-color: rgb(5, 78, 5);
-}
+} */
