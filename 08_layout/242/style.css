@@ -1,0 +1,55 @@
+.wapper {
+  border: 1px solid black;
+  margin: 50px auto;
+  width: 700px;
+}
+
+.menu {
+  display: flex;
+  justify-content: start;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.671);
+  margin-bottom: 20px;
+}
+
+.menu a {
+  margin: 0;
+  text-decoration: none;
+  color: white;
+  font: bold 14px Arial;
+  padding: 10px 20px;
+}
+
+.menu a:hover,
+.menu a.active {
+  background-color: #fff;
+  color: grey;
+}
+
+.content {
+  padding: 0 5px;
+}
+
+.content h1 {
+  margin: 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.content p {
+  font: 17px 'Times New Roman';
+  text-align: justify;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.content a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.content a:hover,
+.content a:active {
+  color: green;
+  text-decoration: underline;
+}
