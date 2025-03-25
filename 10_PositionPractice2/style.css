@@ -16,10 +16,11 @@
 }
 .sign {
   position: absolute;
-  left: 50px;
-  top: 130px;
+  left: 50%;
+  top: 50%;
   width: 200px;
   height: 50px;
   background-color: white;
   border-radius: 5px;
+  transform: translate(-50%, -50%);
 }
