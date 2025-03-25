@@ -1,0 +1,85 @@
+body {
+  margin: 50px;
+}
+
+ul li {
+  list-style: none;
+  font-size: 18px;
+  position: relative;
+}
+
+.list1 li:nth-child(1)::first-line {
+  text-decoration: line-through;
+}
+
+.list1 li:nth-child(2)::first-line {
+  font-weight: bold;
+}
+
+.list1 li:nth-child(3)::first-line {
+  font-style: italic;
+}
+
+.list1 li:nth-child(4)::first-line {
+  text-transform: uppercase;
+}
+
+.list2 li::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: green;
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+
+.list2 li:hover::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: red;
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+
+.list2 li:hover {
+  color: red;
+}
+
+.button {
+  display: flex;
+  text-align: center;
+  cursor: pointer;
+}
+
+.button li {
+  width: 150px;
+  background-color: green;
+  margin-right: 10px;
+  color: white;
+  border-radius: 10px;
+}
+
+.button li::after {
+  content: '→';
+  padding-left: 10px;
+}
+
+.button li:hover {
+  background-color: rgb(2, 88, 2);
+}
+
+.button li:active {
+  background-color: gray;
+}
+
+p::first-letter {
+  color: red;
+  font-size: 24px;
+}
+
+.firs-line::first-line {
+  color: red;
+}
