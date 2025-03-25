@@ -1,0 +1,56 @@
+.container {
+  margin: 50px auto 20px;
+  width: 700px;
+}
+
+h1 {
+  text-align: center;
+  font: 26px sans-serif;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.info {
+  border: 1px solid black;
+  padding: 35px 15px 20px;
+  margin-bottom: 20px;
+}
+
+.info h2 {
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.info a {
+  text-decoration: none;
+  color: blue;
+}
+
+.info a:hover,
+.info a:active {
+  text-decoration: underline;
+}
+
+.info p {
+  margin: 0;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+.info h3 {
+  text-align: right;
+  font: 14px sans-serif;
+  margin: 0;
+  margin-bottom: 20px;
+  padding-right: 40px;
+}
+
+.info h3 a {
+  text-align: right;
+  text-decoration: none;
+}
+
+.info h3 a:hover,
+.info h3 a:active {
+  text-decoration: underline;
+}
