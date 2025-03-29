@@ -1,0 +1,137 @@
+/* task 1 */
+
+/* * {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 1100px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.header {
+  height: 300px;
+  border: 1px solid black;
+  padding: 20px;
+}
+.container {
+  display: flex;
+}
+
+.sidebar-left {
+  width: 25%;
+  border: 1px solid black;
+  margin-right: 25px;
+  padding: 20px;
+}
+.content {
+  width: 50%;
+  border: 1px solid black;
+  height: 600px;
+  margin-right: 25px;
+  padding: 20px;
+}
+.sidebar-right {
+  width: 25%;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.footer {
+  padding: 20px;
+  border: 1px solid black;
+  height: 100px;
+} */
+
+/* task 2 */
+
+/* * {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.header {
+  height: 250px;
+  border: 1px solid black;
+  padding: 20px;
+}
+.container {
+  display: flex;
+}
+
+.sidebar-left {
+  width: 30%;
+  border: 1px solid black;
+  padding: 20px;
+  margin-right: 20px;
+}
+.content {
+  width: 50%;
+  border: 1px solid black;
+  height: 700px;
+  padding: 20px;
+  margin-right: 20px;
+}
+.sidebar-right {
+  border: 1px solid black;
+  padding: 20px;
+  width: 20%;
+}
+
+.footer {
+  padding: 20px;
+  border: 1px solid black;
+  height: 100px;
+} */
+
+/* task 3 */
+
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.header {
+  height: 250px;
+  border: 1px solid black;
+  padding: 20px;
+}
+.container {
+  display: flex;
+}
+
+.sidebar-left {
+  width: 25%;
+  border: 1px solid black;
+  padding: 20px;
+  margin-right: 20px;
+}
+.content {
+  width: 50%;
+  border: 1px solid black;
+  height: 700px;
+  padding: 20px;
+  margin-right: 20px;
+}
+.sidebar-right {
+  border: 1px solid black;
+  padding: 20px;
+  width: 25%;
+}
+
+.footer {
+  padding: 20px;
+  border: 1px solid black;
+  height: 100px;
+}
